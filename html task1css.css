@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.odd{
+    color: mediumpurple;
+    font-size: 20px;
+}
+.even{
+    color: limegreen;
+    font-size: 20px;
+}
+span{
+    color: white;
+}
+h1{
+    text-align: center;
+    color: mediumpurple;
+}
+.b1{
+    background-color: red;
+    color: white;
+}
+.b2{
+    background-color: darkslateblue;
+    color: white;
+}
+.centerbutton {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 85%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%,-50%);
+}
+h2{
+    color: orange;
+}
